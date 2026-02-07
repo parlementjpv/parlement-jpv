@@ -58,6 +58,6 @@ Pour modifier le site :
 4. Committez et pushez vos changements
 5. Le site sera automatiquement mis à jour via GitHub Actions
 
-## License
+## Licence
 
 © Parlement JPV — Lycée Jean-Pierre Vernant
